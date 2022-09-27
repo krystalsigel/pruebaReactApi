@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Link video: https://vimeo.com/754073444/2412f6e9f7
+:arrow_forward: Link video: https://vimeo.com/754073444/2412f6e9f7
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
