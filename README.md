@@ -1,8 +1,10 @@
 # Getting Started with Create React App
 
 :arrow_forward: Link video: https://vimeo.com/754073444/2412f6e9f7
+:arrow_right: Pages: https://krystalsigel.github.io/pruebaReactApi/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
